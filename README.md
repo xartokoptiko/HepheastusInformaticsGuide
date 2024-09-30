@@ -9,6 +9,8 @@ Tasks will vary based on your developer specification. Developer specifications 
 - **Hardware Developers**: Responsible for developing the software needed for various robots to function properly.
 - **Data Analysts** (Coming soon): Responsible for creating data analysis software (AI and more) and will work closely with the back-end developers, as these two roles are closely related.
 
+![categories](/assets/developer-cat.png)
+
 ### Skills That Need to Be Learned
 It is important to understand why these tasks are being assigned! Hepheastus aims to be an innovative team within the University of Peloponnese community. By creating projects that will elevate our campus in international competitions, the informatics team needs to acquire the following knowledge:
 - **Basic knowledge of HTML and CSS**: For front-end representation (Front-end).
